@@ -2,6 +2,16 @@
 - 👀 Computer science is my passion
 - 🌱 I’m currently studying to the university 
 
+Languages:
+- Java
+- C++
+- C
+- HTML
+- CSS
+- Javascript
+- PHP
+- MySQL
+- Haskell
 <!---
 AndreaNapoli08/AndreaNapoli08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
