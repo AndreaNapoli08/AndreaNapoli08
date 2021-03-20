@@ -2,7 +2,7 @@
 - 👀 Computer science is my passion
 - 🌱 I’m currently studying to the university 
 
-Languages:
+Languages and skills:
 - Java
 - C++
 - C
