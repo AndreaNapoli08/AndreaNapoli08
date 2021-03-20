@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndreaNapoli08
-- 👀 I’m interested in computer science
+- 👀 Computer science is my passion
 - 🌱 I’m currently studying to the university 
-- Computer science is my passion
 
 <!---
 AndreaNapoli08/AndreaNapoli08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
